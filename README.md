@@ -5,19 +5,24 @@ This is a README! It tells you what is in the GitHub repo.
 
 All READMEs for this class should have the following sections:
 
-## General information
-
 What is this repo for?
+
+This repository contains one example for running a linear model. 
 
 Whose repo is it? Who is contributing to it?
 
-## Data and file information
+This is my personal repo forked from the ENVS-193DS-2026 organization. I am the sole contributor.
 
 What files are there?
 
+All code files are in the 'code' folder. These are .qmd files that contain models for abalone-pH ('abalone-example.qmd'). 
+
 What code is there, and what does it do?
 
-## Rendered output
+The files include code for creating linear models, checking model diagnostics, creating predictions and visualizing predictions.
+
 
 Link to the rendered output. 
 [here](https://amandasalinas1.github.io/workshop-07_winter-2026/code/abalone-example.html)
+
+
